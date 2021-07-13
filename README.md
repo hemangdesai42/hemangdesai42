@@ -10,3 +10,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love photography, music, being active, and my golden retriever named Astro.
 
+[![Hemang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemangdesai42&count_private=true&show_icons=true&theme=radical))](https://github.com/hemangdesai42/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemangdesai42&layout=compact&theme=radical)](https://github.com/hemangdesai42/github-readme-stats)
