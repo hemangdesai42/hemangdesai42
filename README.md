@@ -8,8 +8,7 @@
 - 💬 Ask me about anything, I am always down for deep conversations. 
 - 📫 How to reach me: hsd257@nyu.edu
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love photography, music, being active, and my golden retriever named Astro.
-
+- ⚡ Fun fact: I love photography, music, being active, food!
 [![Hemang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemangdesai42&count_private=true&show_icons=true&theme=react))](https://github.com/hemangdesai42/github-readme-stats)
 
 
