@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on projects that involve photography, music, gaming, and pretty much anything else to allow for more growth.
 - 🤔 I’m looking for help with starting new projects and gaining new skills in the tech industry
 - 💬 Ask me about anything, I am always down for deep conversations. 
-- 📫 How to reach me: hsd257@nyu.edu
+- 📫 How to reach me: hemangdesai42@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love photography, music, being active, food!
 [![Hemang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemangdesai42&count_private=true&show_icons=true&theme=react))](https://github.com/hemangdesai42/github-readme-stats)
@@ -28,7 +28,7 @@
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
 ## Get in touch:
-- hsd257@nyu.edu 
+- hemangdesai42@gmail.com 
 - [![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=for-the-badge)](https://hemangdesai42.github.io/)
 - <img a href="https://www.linkedin.com/in/desaihemang42/" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 - [![AngelList](https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=angellist&logoColor=darkgray)](https://angel.co/u/hemangdesai42)
